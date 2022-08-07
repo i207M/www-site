@@ -26,6 +26,7 @@ Hello. This is i207M!
 ---
 
 - ql
+- filestash
 - subcon
 - subweb
 - wall
