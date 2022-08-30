@@ -28,6 +28,8 @@ Hello. This is i207M!
 ---
 
 - ql
+- kms
+- nps
 - subcon
 - subweb
 - wall
